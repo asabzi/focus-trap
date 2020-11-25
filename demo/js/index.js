@@ -14,4 +14,5 @@ require('./click-outside-deactivates');
 require('./set-return-focus');
 require('./no-delay');
 require('./multiple-elements');
+require('./multiple-elements-delete');
 require('./multiple-traps-multiple-elements');
